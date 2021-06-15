@@ -14,5 +14,6 @@ Please cite our paper if you find this code helpful to your research:
 title = {Knowledge Preserving and Distribution Alignment for Heterogeneous Domain Adaptation},  
 journal = {ACM Transactions on Information Systems},    
 year = {2021},  
+doi = {10.1145/3469856},  
 author = {Hanrui, Wu and Qingyao, Wu and Michael, K. Ng}  
 }
