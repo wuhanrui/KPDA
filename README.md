@@ -4,6 +4,8 @@ A demo application running on the wireless data set.
 Knowledge Preserving and Distribution Alignment for Heterogeneous Domain Adaptation, ACM Transactions on Information Systems, 2021  
 Authors: Hanrui Wu, Qingyao Wu, Michael K. Ng  
 Please note that the initialization of the mapping matrices P and Q has an impact on the result.  
+Besides, the parameters in the demo file are selected from different sets of values.  
+Detailed information on the parameter selection please refers to the paper.
 
 
 The codes are written based on the ManOpt provided by Z. Wen and W. Yin. A feasible method for optimization with orthogonality constraints. Mathematical Programming 2013  
