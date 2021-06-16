@@ -1,3 +1,9 @@
+% Knowledge Preserving and Distribution Alignment for Heterogeneous Domain Adaptation 
+% ACM Transactions on Information Systems, 2021
+% Authors: Hanrui Wu, Qingyao Wu, Michael K. Ng
+% Code written by Hanrui Wu
+
+
 function accuracy = KPDA(Xs, Xl, Xu, Ys, Yt0, Yl, Yu, options)
 
 %% data
