@@ -18,5 +18,5 @@ title = {Knowledge Preserving and Distribution Alignment for Heterogeneous Domai
 journal = {ACM Transactions on Information Systems},    
 year = {2021},  
 doi = {10.1145/3469856},  
-author = {Hanrui, Wu and Qingyao, Wu and Michael, K. Ng}  
+author = {Wu, Hanrui and Wu, Qingyao, Wu and Ng, Michael Kwok-Po}  
 }
