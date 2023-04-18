@@ -13,10 +13,14 @@ The codes are written based on the ManOpt provided by Z. Wen and W. Yin. A feasi
 
 
 Please cite our paper if you find this code helpful to your research:  
-@article{wu2021knowledge,  
-title = {Knowledge Preserving and Distribution Alignment for Heterogeneous Domain Adaptation},  
-journal = {ACM Transactions on Information Systems},    
-year = {2021},  
-doi = {10.1145/3469856},  
-author = {Wu, Hanrui and Wu, Qingyao and Ng, Michael Kwok-Po}  
+@article{wu2022knowledge,  
+  title = {Knowledge Preserving and Distribution Alignment for Heterogeneous Domain Adaptation},  
+  author = {Wu, Hanrui and Wu, Qingyao and Ng, Michael Kwok-Po},  
+  journal = {ACM Transactions on Information Systems (TOIS)},    
+  year = {2022},  
+  volume={40},  
+  number={1},  
+  pages={1--29},  
+  year={2021},  
+  publisher={ACM New York, NY}  
 }
