@@ -1,7 +1,7 @@
 ## Knowledge Preserving and Distribution Alignment (KPDA)
 
 A demo application running on the wireless data set, this is a kernelized version.  
-Knowledge Preserving and Distribution Alignment for Heterogeneous Domain Adaptation, ACM Transactions on Information Systems, 2021  
+Knowledge Preserving and Distribution Alignment for Heterogeneous Domain Adaptation, ACM Transactions on Information Systems, 2022  
 Authors: Hanrui Wu, Qingyao Wu, Michael K. Ng  
 Please note that the initialization of the mapping matrices P and Q has an impact on the result.  
 Besides, the parameters in the demo file are selected from different sets of values.  
