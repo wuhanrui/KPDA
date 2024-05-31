@@ -1,7 +1,5 @@
 function DATA = prepare_data(dataname, source_domain, target_domain, trial)
 
-%% 正式用于跑实验的index，对应的索引文件为**_index.mat
-
 datapath = ['../data/' dataname];
 
 %% data
